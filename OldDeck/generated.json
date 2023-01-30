@@ -1,0 +1,382 @@
+{
+  "generated": [
+    [
+      "essere",
+      "`essere (eh-seh-reh) indicate the existence or presence of someone or something Example: \"Io sono alto.\" (I am tall.) indicate a characteristic or quality Example: \"Questa mela è verde.\" (This apple is green.)`"
+    ],
+    [
+      "avere",
+      "`indicate possession or ownership Example: \"Ho un cane.\" (I have a dog.) indicate age Example: \"Ho vent'anni.\" (I am 20 years old.)`"
+    ],
+    [
+      "fare",
+      "`indicate an action Example: \"Faccio una passeggiata.\" (I am taking a walk.) indicate a production Example: \"Faccio una torta.\" (I am making a cake.)`"
+    ],
+    [
+      "dare",
+      "`give something to someone Example: \"Dai una caramella al bambino.\" (Give a candy to the child.) express an opinion Example: \"Dico che è una buona idea.\" (I say it is a good idea.)`"
+    ],
+    [
+      "stare",
+      "`indicate a location Example: \"Sto in Italia.\" (I am in Italy.) indicate a condition Example: \"Sto bene.\" (I am well.)`"
+    ],
+    [
+      "avere",
+      "`indicate possession or ownership Example: \"Ho un cane.\" (I have a dog.) indicate age Example: \"Ho vent'anni.\" (I am 20 years old.)`"
+    ],
+    [
+      "dire",
+      "`express an opinion Example: \"Dico che è una buona idea.\" (I say it is a good idea.) report something someone said Example: \"Ha detto che era stanco.\" (He said he was tired.)`"
+    ],
+    [
+      "potere",
+      "`express ability Example: \"Posso parlare italiano.\" (I can speak Italian.) express permission Example: \"Puoi usare il mio computer.\" (You can use my computer.)`"
+    ],
+    [
+      "volere",
+      "`express desire Example: \"Voglio un gelato.\" (I want an ice cream.) express intention Example: \"Voglio andare in Italia.\" (I want to go to Italy.)`"
+    ],
+    [
+      "sapere",
+      "`express knowledge Example: \"So che è una buona idea.\" (I know it is a good idea.) express ability Example: \"So parlare italiano.\" (I can speak Italian.)`"
+    ],
+    [
+      "venire",
+      "`indicate movement towards a place Example: \"Vengo da Roma.\" (I am coming from Rome.) indicate the origin of something Example: \"Questo vino viene dall'Italia.\" (This wine comes from Italy.)`"
+    ],
+    [
+      "fare",
+      "`indicate an action Example: \"Faccio una passeggiata.\" (I am taking a walk.) indicate a production Example: \"Faccio una torta.\" (I am making a cake.)`"
+    ],
+    [
+      "dovre",
+      "`express obligation Example: \"Devo fare i compiti.\" (I have to do my homework.) express probability Example: \"Dev'essere arrivato.\" (He must have arrived.)`"
+    ],
+    [
+      "dire",
+      "`express an opinion Example: \"Dico che è una buona idea.\" (I say it is a good idea.) report something someone said Example: \"Ha detto che era stanco.\" (He said he was tired.)`"
+    ],
+    [
+      "pensare",
+      "`express opinion Example: \"Penso che sia una buona idea.\" (I think it is a good idea.) express doubt Example: \"Penso che non sia vero.\" (I think it is not true.)`"
+    ],
+    [
+      "guardare",
+      "`observe something Example: \"Guardo la televisione.\" (I am watching television.) pay attention to something Example: \"Guardo quello che dici.\" (I am paying attention to what you are saying.)`"
+    ],
+    [
+      "vivere",
+      "`indicate a place of residence Example: \"Vivo in Italia.\" (I live in Italy.) indicate a lifestyle Example: \"Vivo una vita sana.\" (I live a healthy life.)`"
+    ],
+    [
+      "credere",
+      "`express opinion Example: \"Credo che sia vero.\" (I believe it is true.) express trust Example: \"Credo in te.\" (I trust you.)`"
+    ],
+    [
+      "trovare",
+      "`discover something Example: \"Ho trovato una moneta.\" (I found a coin.) consider something Example: \"Trovo che sia una buona idea.\" (I think it is a good idea.)`"
+    ],
+    [
+      "sentire",
+      "`express opinion Example: \"Sento che sia una buona idea.\" (I feel it is a good idea.) perceive something Example: \"Sento un odore strano.\" (I smell a strange odor.)`"
+    ],
+    [
+      "andare",
+      "`indicate movement Example: \"Vado a scuola.\" (I am going to school.) indicate a destination Example: \"Vado in Italia.\" (I am going to Italy.)`"
+    ],
+    [
+      "venire",
+      "`indicate movement towards a place Example: \"Vengo da Roma.\" (I am coming from Rome.) indicate the origin of something Example: \"Questo vino viene dall'Italia.\" (This wine comes from Italy.)`"
+    ],
+    [
+      "parlare",
+      "`express an opinion Example: \"Parlo italiano.\" (I speak Italian.) communicate Example: \"Parlo con i miei amici.\" (I am talking to my friends.)`"
+    ],
+    [
+      "sapere",
+      "`express knowledge Example: \"So che è una buona idea.\" (I know it is a good idea.) express ability Example: \"So parlare italiano.\" (I can speak Italian.)`"
+    ],
+    [
+      "vedere",
+      "`observe something Example: \"Vedo un gatto.\" (I see a cat.) understand something Example: \"Vedo cosa vuoi dire.\" (I understand what you mean.)`"
+    ],
+    [
+      "dare",
+      "`give something to someone Example: \"Dai una caramella al bambino.\" (Give a candy to the child.) express an opinion Example: \"Dico che è una buona idea.\" (I say it is a good idea.)`"
+    ],
+    [
+      "usare",
+      "`employ something Example: \"Usa una matita.\" (Use a pencil.) take advantage of something Example: \"Usa il tuo tempo libero.\" (Make use of your free time.)`"
+    ],
+    [
+      "stare",
+      "`indicate a location Example: \"Sto in Italia.\" (I am in Italy.) indicate a condition Example: \"Sto bene.\" (I am well.)`"
+    ],
+    [
+      "fare",
+      "`indicate an action Example: \"Faccio una passeggiata.\" (I am taking a walk.) indicate a production Example: \"Faccio una torta.\" (I am making a cake.)`"
+    ],
+    [
+      "potere",
+      "`express ability Example: \"Posso parlare italiano.\" (I can speak Italian.) express permission Example: \"Puoi usare il mio computer.\" (You can use my computer.)`"
+    ],
+    [
+      "volere",
+      "`express desire Example: \"Voglio un gelato.\" (I want an ice cream.) express intention Example: \"Voglio andare in Italia.\" (I want to go to Italy.)`"
+    ],
+    ["bene", "`good Example: \"Questo è un bene.\" (This is good.)`"],
+    ["male", "`bad Example: \"Questo è un male.\" (This is bad.)`"],
+    ["grande", "`big Example: \"Questa casa è grande.\" (This house is big.)`"],
+    [
+      "piccolo",
+      "`small Example: \"Questa casa è piccola.\" (This house is small.)`"
+    ],
+    [
+      "giusto",
+      "`right Example: \"Ho fatto la cosa giusta.\" (I did the right thing.)`"
+    ],
+    [
+      "sbagliato",
+      "`wrong Example: \"Ho fatto la cosa sbagliata.\" (I did the wrong thing.)`"
+    ],
+    [
+      "buono",
+      "`good Example: \"Questo è un buon libro.\" (This is a good book.)`"
+    ],
+    [
+      "cattivo",
+      "`bad Example: \"Questo è un cattivo libro.\" (This is a bad book.)`"
+    ],
+    [
+      "importante",
+      "`important Example: \"Questo è un argomento importante.\" (This is an important topic.)`"
+    ],
+    [
+      "possibile",
+      "`possible Example: \"È possibile fare questo.\" (It is possible to do this.)`"
+    ],
+    ["vero", "`true Example: \"Questo è vero.\" (This is true.)`"],
+    ["falso", "`false Example: \"Questo è falso.\" (This is false.)`"],
+    [
+      "facile",
+      "`easy Example: \"Questo è facile da capire.\" (This is easy to understand.)`"
+    ],
+    [
+      "difficile",
+      "`difficult Example: \"Questo è difficile da capire.\" (This is difficult to understand.)`"
+    ],
+    [
+      "giovane",
+      "`young Example: \"Questa persona è giovane.\" (This person is young.)`"
+    ],
+    [
+      "vecchio",
+      "`old Example: \"Questa persona è vecchia.\" (This person is old.)`"
+    ],
+    [
+      "nuovo",
+      "`new Example: \"Questo è un nuovo libro.\" (This is a new book.)`"
+    ],
+    [
+      "vecchio",
+      "`old Example: \"Questo è un vecchio libro.\" (This is an old book.)`"
+    ],
+    [
+      "alto",
+      "`tall Example: \"Questa persona è alta.\" (This person is tall.)`"
+    ],
+    [
+      "basso",
+      "`short Example: \"Questa persona è bassa.\" (This person is short.)`"
+    ],
+    [
+      "forte",
+      "`strong Example: \"Questa persona è forte.\" (This person is strong.)`"
+    ],
+    [
+      "debole",
+      "`weak Example: \"Questa persona è debole.\" (This person is weak.)`"
+    ],
+    [
+      "ricco",
+      "`rich Example: \"Questa persona è ricca.\" (This person is rich.)`"
+    ],
+    [
+      "povero",
+      "`poor Example: \"Questa persona è povera.\" (This person is poor.)`"
+    ],
+    ["solo", "`alone Example: \"Sto solo.\" (I am alone.)`"],
+    ["insieme", "`together Example: \"Stiamo insieme.\" (We are together.)`"],
+    [
+      "bravo",
+      "`good Example: \"Questo bambino è bravo.\" (This child is good.)`"
+    ],
+    [
+      "cattivo",
+      "`bad Example: \"Questo bambino è cattivo.\" (This child is bad.)`"
+    ],
+    ["pronto", "`ready Example: \"Sono pronto.\" (I am ready.)`"],
+    ["tardi", "`late Example: \"Sono arrivato tardi.\" (I arrived late.)`"],
+    ["bene", "`well Example: \"Sto bene.\" (I am well.)`"],
+    ["male", "`badly Example: \"Sto male.\" (I am badly.)`"],
+    [
+      "giusto",
+      "`correct Example: \"Ho fatto la cosa giusta.\" (I did the right thing.)`"
+    ],
+    [
+      "sbagliato",
+      "`incorrect Example: \"Ho fatto la cosa sbagliata.\" (I did the wrong thing.)`"
+    ],
+    [
+      "facile",
+      "`easy Example: \"Questo è facile da capire.\" (This is easy to understand.)`"
+    ],
+    [
+      "difficile",
+      "`difficult Example: \"Questo è difficile da capire.\" (This is difficult to understand.)`"
+    ],
+    ["vero", "`true Example: \"Questo è vero.\" (This is true.)`"],
+    ["falso", "`false Example: \"Questo è falso.\" (This is false.)`"],
+    ["libero", "`free Example: \"Questo è libero.\" (This is free.)`"],
+    ["caro", "`expensive Example: \"Questo è caro.\" (This is expensive.)`"],
+    ["basso", "`low Example: \"Questo prezzo è basso.\" (This price is low.)`"],
+    ["alto", "`high Example: \"Questo prezzo è alto.\" (This price is high.)`"],
+    [
+      "giusto",
+      "`right Example: \"Ho fatto la cosa giusta.\" (I did the right thing.)`"
+    ],
+    [
+      "sbagliato",
+      "`wrong Example: \"Ho fatto la cosa sbagliata.\" (I did the wrong thing.)`"
+    ],
+    [
+      "buono",
+      "`good Example: \"Questo è un buon libro.\" (This is a good book.)`"
+    ],
+    [
+      "cattivo",
+      "`bad Example: \"Questo è un cattivo libro.\" (This is a bad book.)`"
+    ],
+    [
+      "importante",
+      "`important Example: \"Questo è un argomento importante.\" (This is an important topic.)`"
+    ],
+    [
+      "possibile",
+      "`possible Example: \"È possibile fare questo.\" (It is possible to do this.)`"
+    ],
+    ["vero", "`true Example: \"Questo è vero.\" (This is true.)`"],
+    ["falso", "`false Example: \"Questo è falso.\" (This is false.)`"],
+    [
+      "facile",
+      "`easy Example: \"Questo è facile da capire.\" (This is easy to understand.)`"
+    ],
+    [
+      "difficile",
+      "`difficult Example: \"Questo è difficile da capire.\" (This is difficult to understand.)`"
+    ],
+    [
+      "giovane",
+      "`young Example: \"Questa persona è giovane.\" (This person is young.)`"
+    ],
+    [
+      "vecchio",
+      "`old Example: \"Questa persona è vecchia.\" (This person is old.)`"
+    ],
+    [
+      "nuovo",
+      "`new Example: \"Questo è un nuovo libro.\" (This is a new book.)`"
+    ],
+    [
+      "vecchio",
+      "`old Example: \"Questo è un vecchio libro.\" (This is an old book.)`"
+    ],
+    [
+      "alto",
+      "`tall Example: \"Questa persona è alta.\" (This person is tall.)`"
+    ],
+    [
+      "basso",
+      "`short Example: \"Questa persona è bassa.\" (This person is short.)`"
+    ],
+    [
+      "forte",
+      "`strong Example: \"Questa persona è forte.\" (This person is strong.)`"
+    ],
+    [
+      "debole",
+      "`weak Example: \"Questa persona è debole.\" (This person is weak.)`"
+    ],
+    [
+      "ricco",
+      "`rich Example: \"Questa persona è ricca.\" (This person is rich.)`"
+    ],
+    [
+      "povero",
+      "`poor Example: \"Questa persona è povera.\" (This person is poor.)`"
+    ],
+    ["solo", "`alone Example: \"Sto solo.\" (I am alone.)`"],
+    ["insieme", "`together Example: \"Stiamo insieme.\" (We are together.)`"],
+    [
+      "bravo",
+      "`good Example: \"Questo bambino è bravo.\" (This child is good.)`"
+    ],
+    [
+      "cattivo",
+      "`bad Example: \"Questo bambino è cattivo.\" (This child is bad.)`"
+    ],
+    ["pronto", "`ready Example: \"Sono pronto.\" (I am ready.)`"],
+    ["tardi", "`late Example: \"Sono arrivato tardi.\" (I arrived late.)`"],
+    ["bene", "`well Example: \"Sto bene.\" (I am well.)`"],
+    ["male", "`badly Example: \"Sto male.\" (I am badly.)`"],
+    [
+      "giusto",
+      "`correct Example: \"Ho fatto la cosa giusta.\" (I did the right thing.)`"
+    ],
+    [
+      "sbagliato",
+      "`incorrect Example: \"Ho fatto la cosa sbagliata.\" (I did the wrong thing.)`"
+    ],
+    [
+      "facile",
+      "`easy Example: \"Questo è facile da capire.\" (This is easy to understand.)`"
+    ],
+    ["difficile", "`difficult Example: \"Questo è difficile da capire.\" ("],
+    [
+      "fare",
+      "`indicate an action Example: \"Faccio una passeggiata.\" (I am taking a walk.) indicate a production Example: \"Faccio una torta.\" (I am making a cake.)`"
+    ],
+    [
+      "dare",
+      "`give something to someone Example: \"Dai una caramella al bambino.\" (Give a candy to the child.) express an opinion Example: \"Dico che è una buona idea.\" (I say it is a good idea.)`"
+    ],
+    [
+      "stare",
+      "`indicate a location Example: \"Sto in Italia.\" (I am in Italy.) indicate a condition Example: \"Sto bene.\" (I am well.)`"
+    ],
+    [
+      "avere",
+      "`indicate possession or ownership Example: \"Ho un cane.\" (I have a dog.) indicate age Example: \"Ho vent'anni.\" (I am 20 years old.)`"
+    ],
+    [
+      "dire",
+      "`express an opinion Example: \"Dico che è una buona idea.\" (I say it is a good idea.) report something someone said Example: \"Ha detto che era stanco.\" (He said he was tired.)`"
+    ],
+    [
+      "potere",
+      "`express ability Example: \"Posso parlare italiano.\" (I can speak Italian.) express permission Example: \"Puoi usare il mio computer.\" (You can use my computer.)`"
+    ],
+    [
+      "volere",
+      "`express desire Example: \"Voglio un gelato.\" (I want an ice cream.) express intention Example: \"Voglio andare in Italia.\" (I want to go to Italy.)`"
+    ],
+    [
+      "sapere",
+      "`express knowledge Example: \"So che è una buona idea.\" (I know it is a good idea.) express ability Example: \"So parlare italiano.\" (I can speak Italian.)`"
+    ],
+    [
+      "venire",
+      "`indicate movement towards a place Example: \"Vengo da Roma.\" (I am coming from Rome.) indicate the origin of something Example: \"Questo vino viene dall'Italia.\" (This wine comes from Italy.)`"
+    ]
+  ]
+}
