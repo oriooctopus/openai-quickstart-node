@@ -1,0 +1,298 @@
+potere - power, to be able to
+altro - other, another
+anno - year
+ed - and
+tutto - everything, all
+primo - first, primary
+tra - among, between
+cui - whose, among whom
+due - two
+dopo - after
+parte - part, portion
+se - if, whether
+molto - very, a lot, much
+lo - it, him, the
+solo - only, alone, solitary
+ci - there, here, us
+secondo - second, according to
+nuovo - new, fresh
+quale - which, what
+dovere - to have to, must, duty
+uno - one
+alcuno - some, any
+dire - to say, to tell
+proprio - own, proper, exact
+quando - when
+poi - then, after
+grande - big, great, large
+vedere - to see, to watch
+dare - to give, to offer
+trovare - to find, to discover
+volta - time, turn, occasion
+ne - of it, of them, of that
+dove - where, to where
+tempo - time, weather
+mentre - while, whereas
+italiano - Italian
+ultimo - last, final
+sempre - always, forever
+nome - name, noun
+così - so, such, this way
+città - city
+Italia - Italy
+fino - until, till, up to
+durante - during, for the duration of
+ancora - again, still, yet
+gruppo - group, crowd, band
+storia - story, history
+andare - to go, to travel, to walk
+prima - first, before
+stesso - same, oneself
+esterno - outside, external
+ogni - every, each
+diverso - different, various
+poco - little, few
+volere - to want, to wish
+film - film, movie
+senza - without
+the - the
+vita - life, living
+tre - three
+contro - against, opposite, versus
+portare - to carry, to bring, to take
+già - already, yet
+opera - work, opera
+quindi - therefore, so
+noto - known, famous, notorious
+quanto - how much, as much as
+collegamento - link, connection, attachment
+punto - point, dot, spot
+secolo - century
+caso - case, instance, situation
+figlio - son, child
+serie - series, set, sequence
+giorno - day
+perché - why, because
+ora - now, hour
+modo - way, manner, mode
+fine - end, finish
+guerra - war, conflict
+prendere - to take, to get, to catch
+gli - him, to him, the
+vi - you, to you, there
+la - the, her, it
+oltre - beyond, over, besides
+successivo - next, subsequent
+mondo - world, universe
+de - of, from, by
+casa - house, home
+però - however, yet, still
+voce - voice, sound, rumor
+cosa - thing, what
+mi - me, to me, mine
+verso - towards, toward, against
+riuscire - to succeed, to manage, to be able to
+sistema - system, method, arrangement
+San - Saint
+uomo - man, human being
+famiglia - family, household
+piccolo - small, little
+sotto - under, below
+oggi - today
+lungo - long
+interno - inside, interior
+progetto - project
+via - street, by way of
+invece - instead
+circa - about, approximately
+fra - between, among
+usare - to use
+infatti - indeed, actually
+persona - person
+utilizzare - to utilize, to use
+periodo - period, time
+iniziare - to start
+lui - him
+rimanere - to remain
+mettere - to put, to place
+pubblicare - to publish
+arrivare - to arrive
+diventare - to become
+scrivere - to write
+esempio - example
+tanto - so much, so many
+seguito - following, consequence
+forma - form
+sapere - to know
+chiamare - to call
+passare - to pass, to spend (time)
+importante - important
+numero - number
+inoltre - moreover, furthermore
+pubblico - public
+mai - never
+chiesa - church
+vero - true, real
+alto - high, tall
+nazionale - national
+ottenere - to obtain
+chi - who
+presentare - to present, to introduce
+li - them
+politico - political
+lasciare - to leave, to let
+particolare - particular, specific
+unico - unique
+comune - common, town
+vario - various
+insieme - together
+Roma - Rome
+principal - main, chief, head
+presente - present
+certo - sure, certain
+titolo - title
+paese - country
+parlare - to speak, to talk
+nascere - to be born
+sia - either, both, be it
+seguire - to follow, to pursue
+considerare - to consider
+stagione - season
+trattare - to treat, to handle
+entrare - to enter
+tipo - type, kind
+centro - center
+posto - place, position
+spesso - often
+of - of
+correlare - to correlate
+successo - success
+fatto - fact, done
+divenire - to become
+causa - cause
+squadra - team
+territorio - territory
+lavoro - work
+creare - to create
+rendere - to give, to make
+nostro - our
+vincere - to win
+partire - to depart, to start
+raggiungere - to reach
+meno - less
+base - base, foundation
+stato - state
+personaggio - character
+termine - term, deadline
+tale - such, of such sort
+studio - study, workroom
+decidere - to decide
+quasi - almost, nearly
+mio - mine
+soprattutto - especially, above all
+morte - death
+momento - moment
+mese - month
+versione - version
+realizzare - to realize, to achieve
+grazie - thanks
+conoscere - to know, to be familiar with
+vivere - to live
+giovane - young
+cercare - to search, to seek
+antico - ancient
+linea - line
+storico - historical
+ciò - that
+rispetto - respect
+ben - well
+inizio - beginning
+tornare - to return
+provincia - province
+zona - area, zone
+album - album
+possibile - possible
+continuare - to continue
+problema - problem
+ragazzo - boy
+donna - woman
+costruire - to build
+servizio - service
+le - the (feminine plural form)
+generale - general
+presso - near, at
+comprendere - to understand
+forza - force, strength
+allora - then
+sembrare - to seem
+qui - here
+campo - field
+pensare - to think
+quattro - four
+tema - theme
+morire - to die
+corso - course
+maggiore - major
+produrre - to produce
+tenere - to hold, to keep
+attività - activity
+me - me
+permettere - to allow, to permit
+luogo - place
+numeroso - numerous
+diritto - right
+qualche - some
+tuttavia - however
+governo - government
+livello - level
+stessa - same
+chiedere - to ask
+rappresentare - to represent
+società - company, society
+dedicare - to dedicate
+produzione - production
+ricordare - to remember
+programma - program
+io - I
+stare - to be (staying)
+settembre - September
+strada - street
+comunque - anyway, however
+terzo - third
+bene - well, good
+padre - father
+mezzo - means, half
+partecipare - to participate
+acqua - water
+francese - French
+gioco - game
+costituire - to constitute
+area - area
+ruolo - role
+origine - origin
+rete - network, net
+avvenire - future
+posizione - position
+porre - to put, to place
+libro - book
+quest' - this
+amico - friend
+attraverso - through
+presenza - presence
+legge - law
+uso - use
+genere - genre
+perdere - to lose
+grado - degree
+Bibliografia - bibliography
+esistere - to exist
+epoca - era, epoch
+II - two, second
+piano - plan, floor
+forte - strong, loud
+uscire - to go out
+tedesco - German
+finale - final
+lavorare - to work
+militare - military
+struttura - structure

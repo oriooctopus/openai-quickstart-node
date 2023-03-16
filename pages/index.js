@@ -3,8 +3,9 @@ import { useState } from "react";
 import styles from "./index.module.css";
 
 export default function Home() {
-  const [textInput, setTextInput] = useState("");
+  const [textInput, setTextInput] = useState("dvsdvsvsdv");
   const [result, setResult] = useState();
+  const [isLoading, setIsLoading] = useState(false);
 
   async function onSubmit(event) {
     event.preventDefault();
@@ -15,6 +16,34 @@ export default function Home() {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({ text: textInput }),
+      });
+
+      const data = await response.json();
+      if (response.status !== 200) {
+        throw (
+          data.error ||
+          new Error(`Request failed with status ${response.status}`)
+        );
+      }
+
+      setResult(data.result);
+      console.log({ result: data.result });
+      setTextInput("");
+    } catch (error) {
+      // Consider implementing your own error handling logic here
+      console.error(error);
+      alert(error.message);
+    }
+  }
+
+  async function englishToItalian(event) {
+    event.preventDefault();
+    try {
+      const response = await fetch("/api/englishToItalian", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
       });
 
       const data = await response.json();
@@ -55,6 +84,8 @@ export default function Home() {
           />
           <input type="submit" value="Generate names" />
         </form>
+        <button onClick={englishToItalian}>English to Italian</button>
+        isLoading? {String(isLoading)}
         <div
           className={styles.result}
           dangerouslySetInnerHTML={{

@@ -1,0 +1,764 @@
+NEW CARDazienda - company, firm, business
+NEW CARDesperienza - experience
+NEW CARDpersonale - staff, personnel, employee
+NEW CARDclub - club
+NEW CARDpieno - full
+NEW CARDconfronto - comparison, confrontation
+NEW CARDtipico - typical, characteristic
+NEW CARDkm - kilometer, km
+NEW CARDpopolare - popular, common, people's
+NEW CARDeuro - euro
+NEW CARDnominare - to name, to appoint, to nominate
+NEW CARDpopolo - people
+NEW CARDconsentire - to allow, to permit
+NEW CARDcaratterizzare - to characterize, to feature
+NEW CARDsicuro - safe, secure
+NEW CARDincontrare - to meet, to encounter
+NEW CARDassoluto - absolute, complete, total
+NEW CARDabbandonare - to abandon, to leave
+NEW CARDreligioso - religious
+NEW CARDanimale - animal
+NEW CARDincontro - meeting, encounter
+NEW CARDinterpretare - to interpret, to perform, to play
+NEW CARDinserire - to insert, to put in, to include
+NEW CARDresource - resource
+NEW CARDocchio - eye
+NEW CARDritorno - return, comeback
+NEW CARDargument - argument
+NEW CARDsupplied - supplied, provided
+NEW CARDvalid - valid, legitimate
+NEW CARDappartenere - to belong, to pertain
+NEW CARDsalvare - to save, to rescue
+NEW CARDambiente - environment, surroundings
+NEW CARDsposare - to marry, to wed
+NEW CARDcivile - civil
+NEW CARDcolpire - to strike, to hit, to affect
+NEW CARDclassico - classic
+NEW CARDorganizzare - to organize, to arrange
+NEW CARDovvero - or, that is, i.e.
+NEW CARDfornire - to provide, to supply
+NEW CARDstrumento - tool, instrument, device
+NEW CARDscopo - purpose, aim, goal
+NEW CARDpiuttosto - rather, quite, fairly
+NEW CARDoro - gold
+NEW CARDtotale - total, overall
+NEW CARDessi - they, them
+NEW CARDprova - proof, evidence, test
+NEW CARDriferimento - reference, citation
+NEW CARDstazione - station
+NEW CARDnaturale - natural
+
+NEW CARDGermania - Germany
+
+La Germania è il paese più grande dell'Unione Europea. (Germany is the largest country in the European Union.)
+NEW CARDnotte - night
+
+Adoro passeggiare di notte. (I love to take a walk at night.)
+NEW CARDprincipe - prince
+
+Il principe ereditario sarà il prossimo sovrano del regno. (The crown prince will be the next sovereign of the kingdom.)
+NEW CARDsopra - above, on top
+
+L'aereo vola sopra le nuvole. (The plane is flying above the clouds.)
+NEW CARDdunque - therefore, so
+
+Non ho visto il film, dunque non posso commentarlo. (I haven't seen the movie, so I can't comment on it.)
+NEW CARDcalcio - football, soccer
+
+Il calcio è lo sport più popolare in Italia. (Football is the most popular sport in Italy.)
+NEW CARDonda - wave
+
+Le onde del mare sono alte oggi. (The waves of the sea are high today.)
+NEW CARDprossimo - next, upcoming
+
+Il prossimo appuntamento è il 15 marzo. (The next appointment is on March 15th.)
+NEW CARDquarto - fourth, quarter
+
+Ho vinto il quarto premio alla lotteria. (I won the fourth prize in the lottery.)
+NEW CARDcampagna - countryside, campaign
+
+La campagna toscana è bellissima. (The Tuscan countryside is beautiful.)
+La campagna pubblicitaria per il nuovo prodotto inizia la settimana prossima. (The advertising campaign for the new product starts next week.)
+NEW CARDraccogliere - to collect, to gather, to pick up
+
+Raccogliamo i fiori per fare un mazzo. (We're picking flowers to make a bouquet.)
+La raccolta fondi per la ricerca sul cancro è stata un grande successo. (The fundraising for cancer research was a great success.)
+NEW CARDnotizia - news
+
+Le ultime notizie dal mondo sportivo sono molto interessanti. (The latest news from the sports world is very interesting.)
+NEW CARDreale - royal, real
+
+La famiglia reale inglese ha una grande influenza in tutto il mondo. (The British royal family has a great influence all over the world.)
+NEW CARDtradizione - tradition
+
+La festa della befana è una tradizione italiana molto antica. (The Epiphany is a very old Italian tradition.)
+NEW CARDpur - though, yet
+
+Non è facile, purtroppo dobbiamo continuare a provare. (It's not easy, yet unfortunately we have to keep trying.)
+NEW CARDprotagonista - protagonist, main character
+
+Il protagonista del romanzo è un giovane avventuriero. (The protagonist of the novel is a young adventurer.)
+NEW CARDJohn - John
+
+John è il mio collega di lavoro. (John is my coworker.)
+NEW CARDtrasformare - to transform, to change
+
+Il vecchio magazzino è stato trasformato in un museo. (The old warehouse has been transformed into a museum.)
+NEW CARDteoria - theory
+
+La teoria della relatività di Einstein ha rivoluzionato la fisica. (Einstein's theory of relativity revolutionized physics.)
+NEW CARDoperazione - operation
+
+NEW CARDdescrivere - to describe
+Posso descrivere il mio nuovo vestito in dettaglio.
+
+NEW CARDPaolo - Paul
+Ho incontrato Paolo ieri sera per cena.
+
+NEW CARDrivelare - to reveal, to disclose
+Non voglio rivelare la mia fonte.
+
+NEW CARDtentare - to try, to attempt
+Voglio tentare di fare il mio miglior lavoro.
+
+NEW CARDampio - wide, broad, ample
+C'è un'ampia selezione di cibo nel menu.
+
+NEW CARDorganizzazione - organization
+L'organizzazione dell'evento richiede molta pianificazione.
+
+NEW CARDcapacità - ability, capacity
+La sua capacità di risolvere i problemi è notevole.
+
+NEW CARDsuperare - to overcome, to exceed
+Voglio superare le mie aspettative.
+
+NEW CARDminuto - minute, tiny
+Ci sono dettagli minuti che devono essere considerati.
+
+NEW CARDqualità - quality
+La qualità del cibo è eccellente.
+
+NEW CARDconservare - to preserve, to conserve
+Dobbiamo conservare le risorse naturali per le generazioni future.
+
+NEW CARDfondo - bottom, depth, fund
+Ho trovato un po' di soldi nel fondo della borsa.
+
+NEW CARDpuntata - episode, installment
+Ho visto l'ultima puntata della mia serie TV preferita.
+
+NEW CARDcompagnia - company, companionship
+Mi piace la compagnia dei miei amici.
+
+NEW CARDNapoli - Naples
+Sono andato a Napoli per assaggiare la pizza autentica.
+
+NEW CARDfisico - physical, physicist
+Ha una forza fisica notevole.
+
+NEW CARDguida - guide, driver's license
+Ho bisogno di una guida per orientarmi nella città.
+
+NEW CARDpassato - past
+Nel passato, ho lavorato come insegnante.
+
+NEW CARDstabilire - to establish, to set up
+Vogliamo stabilire un'azienda sostenibile.
+
+NEW CARDguidare - to drive, to lead
+Mi piace guidare la mia macchina sulla strada.
+
+NEW CARDtecnica - technique
+La sua tecnica di pittura è incredibile.
+
+NEW CARDAntonio - Anthony
+Antonio mi ha dato un buon consiglio.
+
+NEW CARDridurre - to reduce, to lower
+Dobbiamo ridurre l'inquinamento dell'aria.
+
+NEW CARDproprietà - property, ownership
+La proprietà è un investimento importante.
+
+NEW CARDaccettare - to accept
+Ho accettato l'offerta di lavoro.
+
+NEW CARDenergia - energy
+L'energia rinnovabile è importante per il nostro futuro.
+
+NEW CARDraccontare - to tell, to narrate
+Mi piace raccontare storie interessanti.
+
+NEW CARDcontenuto - content
+Il contenuto del libro è molto utile.
+
+NEW CARDincludere - to include
+La mia lista della spesa include frutta e verdura fresca.
+
+NEW CARDmedio - average, medium
+La temperatura media in estate è di 25 gradi.
+
+NEW CARDstudiare - to study
+Voglio studiare all'estero per ampliare la mia esperienza.
+
+NEW CARDstudiare - to study
+Studiero' molto stasera per l'esame di domani. (I will study a lot tonight for tomorrow's exam.)
+
+NEW CARDintorno - around
+C'è un parco intorno al mio quartiere. (There is a park around my neighborhood.)
+
+NEW CARDeseguire - to perform, to execute
+Devi eseguire queste istruzioni alla lettera. (You have to execute these instructions to the letter.)
+
+NEW CARDporta - door
+La porta del mio ufficio e' sempre aperta. (The door of my office is always open.)
+
+NEW CARDTV - television
+Guardiamo sempre le notizie alla sera sulla TV. (We always watch the news on TV in the evening.)
+
+NEW CARDpalazzo - building, palace
+Il palazzo dove abito ha tre piani. (The building where I live has three floors.)
+
+NEW CARDmedico - doctor
+Ho bisogno di andare dal medico per farmi visitare. (I need to go to the doctor to get checked.)
+
+NEW CARDaccordo - agreement
+Abbiamo raggiunto un accordo su come procedere. (We reached an agreement on how to proceed.)
+
+NEW CARDsta - is, stays
+Mio fratello sta a Londra per studiare. (My brother is staying in London to study.)
+
+NEW CARDoppure - or
+Puoi scegliere il rosso oppure il verde. (You can choose either red or green.)
+
+NEW CARDsettore - sector
+L'azienda si occupa del settore alimentare. (The company works in the food sector.)
+
+NEW CARDcitare - to quote, to mention
+Mi ha citato come esempio nella sua presentazione. (He mentioned me as an example in his presentation.)
+
+NEW CARDvendere - to sell
+Ho venduto la mia macchina vecchia. (I sold my old car.)
+
+NEW CARDrosso - red
+Mi piace molto il rosso, è il mio colore preferito. (I really like red, it's my favorite color.)
+
+NEW CARDsoggetto - subject
+L'argomento principale della lezione di oggi è il soggetto. (The main subject of today's lesson is the subject.)
+
+NEW CARDclassifica - ranking
+La squadra di calcio e' in testa alla classifica. (The soccer team is at the top of the ranking.)
+
+NEW CARDviaggio - trip, travel
+Il mio prossimo viaggio sara' in Giappone. (My next trip will be to Japan.)
+
+NEW CARDaiutare - to help
+Posso aiutarti con il tuo lavoro se hai bisogno. (I can help you with your work if you need.)
+
+NEW CARDmacchina - car
+Ho appena comprato una nuova macchina. (I just bought a new car.)
+
+NEW CARDchiudere - to close
+Ricordati di chiudere la finestra quando vai via. (Remember to close the window when you leave.)
+
+NEW CARDminore - minor
+Il figlio minore di mia sorella ha solo tre anni. (My sister's youngest son is only three years old.)
+
+NEW CARDspiegare - to explain
+Puoi spiegarmi di nuovo come funziona questo computer? (Can you explain to me again how this computer works?)
+
+NEW CARDdirettore - director
+Il direttore dell'azienda ha convocato una riunione. (The company's director has called a meeting.)
+
+NEW CARDnulla - nothing
+Non c'è nulla da mangiare in frigorifero. (There's nothing to eat in the fridge.)
+
+NEW CARDné - neither, nor
+Non mi piacciono né la pizza né le patatine. (I don't like neither pizza nor chips.)
+
+NEW CARDDio - God
+Example sentence: Molti credono in Dio. (Many believe in God.)
+
+NEW CARDdell' - of the
+Example sentence: Il canto dell'amore. (The song of love.)
+
+NEW CARDpersonalità - personality
+Example sentence: La sua personalità è unica. (His/her personality is unique.)
+
+NEW CARDesprimere - to express
+Example sentence: Non so come esprimere la mia gratitudine. (I don't know how to express my gratitude.)
+
+NEW CARDlettera - letter
+Example sentence: Ho ricevuto una lettera da mio cugino. (I received a letter from my cousin.)
+
+NEW CARDdifficile - difficult
+Example sentence: Questo problema è molto difficile da risolvere. (This problem is very difficult to solve.)
+
+NEW CARDAmerica - America
+Example sentence: Gli Stati Uniti sono in America. (The United States are in America.)
+
+NEW CARDIII - III
+Example sentence: Il re Luigi III governò la Francia dal 879 al 882. (King Louis III ruled France from 879 to 882.)
+
+NEW CARDstatunitense - American
+Example sentence: Sono un cittadino statunitense. (I am an American citizen.)
+
+NEW CARDquestione - question, matter
+Example sentence: La questione è molto complicata. (The matter is very complicated.)
+
+NEW CARDcoppia - couple, pair
+Example sentence: Questa è una coppia felice. (This is a happy couple.)
+
+NEW CARDcarattere - character
+Example sentence: Ha un forte carattere. (He/she has a strong character.)
+
+NEW CARDPietro - Peter
+Example sentence: Pietro è il mio migliore amico. (Peter is my best friend.)
+
+NEW CARDinviare - to send
+Example sentence: Ho inviato il pacco stamattina. (I sent the package this morning.)
+
+NEW CARDconquistare - to conquer
+Example sentence: Alessandro Magno conquistò molti territori. (Alexander the Great conquered many territories.)
+
+NEW CARDoriginario - native, original
+Example sentence: Sono originario di Roma. (I am a native of Rome.)
+
+NEW CARDdefinitivo - definitive, final
+Example sentence: La decisione finale spetta al giudice. (The final decision is up to the judge.)
+
+NEW CARDattivo - active
+Example sentence: Sono una persona molto attiva. (I am a very active person.)
+
+NEW CARDregno - kingdom, reign
+Example sentence: Il regno di Giorgio VI durò dal 1936 al 1952. (The reign of George VI lasted from 1936 to 1952.)
+
+NEW CARDnatura - nature
+Example sentence: Amo la natura e mi piace camminare nel bosco. (I love nature and I like to walk in the woods.)
+
+NEW CARDestremo - extreme
+Example sentence: Le condizioni meteorologiche sono estreme. (The weather conditions are extreme.)
+
+NEW CARDritrovare - to find again, to recover
+Example sentence: Ho ritrovato il mio portafoglio. (I found my wallet again.)
+
+NEW CARDragione - reason, right
+Example sentence: Non vedo la ragione per cui dovremmo andare. (I don't see the reason why we should go.)
+
+NEW CARDspeciale - special
+Example sentence: Questo è un evento molto speciale. (This is a very special event.)
+
+NEW CARDevitare - to avoid
+Example sentence: Cerco sempre di evitare la folla. (I always try to avoid crowds.)
+
+NEW CARDconcludere - to conclude, to end
+Example sentence: La riunione si concluderà alle 5. (The meeting will end at 5.)
+
+NEW CARDparere - opinion, point of view
+Esempio: Qual è il tuo parere sulla nuova legge?
+
+NEW CARDintervento - intervention, action
+Esempio: L'intervento del medico ha salvato la vita del paziente.
+
+NEW CARDtrama - plot, storyline
+Esempio: La trama del romanzo è molto avvincente.
+
+NEW CARDteatro - theater, theatre
+Esempio: Andiamo al teatro stasera a vedere una commedia.
+
+NEW CARDTorino - Turin
+Esempio: Ho visitato Torino lo scorso anno, è una città bellissima.
+
+NEW CARDlanciare - to launch, to throw
+Esempio: Hanno deciso di lanciare un nuovo prodotto sul mercato.
+
+NEW CARDcomunità - community
+Esempio: Questa comunità ha bisogno di maggiori risorse per crescere.
+
+NEW CARDintrodurre - to introduce, to bring in
+Esempio: Il professore ha deciso di introdurre un nuovo argomento in classe.
+
+NEW CARDpotenza - power, potency
+Esempio: Questo motore ha una potenza notevole.
+
+NEW CARDministro - minister
+Esempio: Il nuovo ministro della giustizia ha annunciato una riforma importante.
+
+NEW CARDconto - account, bill, story
+Esempio: Non riesco ad accedere al mio conto bancario online.
+
+NEW CARDaumentare - to increase, to raise
+Esempio: L'azienda ha deciso di aumentare i prezzi dei prodotti.
+
+NEW CARDassieme - together, along with
+Esempio: Andiamo a fare la spesa assieme stasera.
+
+NEW CARDcategoria - category
+Esempio: Questo prodotto rientra nella categoria degli elettrodomestici.
+
+NEW CARDnessuno - nobody, no one
+Esempio: Non c'era nessuno in ufficio quando sono arrivato.
+
+NEW CARDtv - TV, television
+Esempio: Guardiamo sempre le notizie in TV.
+
+NEW CARDstessi - same, oneself
+Esempio: Ho gli stessi gusti di mio fratello.
+
+NEW CARDcapitale - capital, city
+Esempio: Roma è la capitale d'Italia.
+
+NEW CARDospitare - to host, to accommodate
+Esempio: Questo hotel può ospitare fino a 100 persone.
+
+NEW CARDrecente - recent, new
+Esempio: Ho letto un articolo interessante su un recente studio scientifico.
+
+NEW CARDqualsiasi - any, whatever
+Esempio: Puoi scegliere qualsiasi piatto dal menu.
+
+NEW CARDdistruggere - to destroy, to demolish
+Esempio: Il terremoto ha distrutto molte case.
+
+NEW CARDcontemporaneo - contemporary, modern
+Esempio: L'arte contemporanea è molto interessante.
+
+NEW CARDnemico - enemy, foe
+Esempio: Bisogna stare attenti ai propri nemici.
+
+NEW CARDcattolico - Catholic
+Esempio: Sono cresciuto in una famiglia cattolica.
+
+NEW CARDcompagno - companion, partner
+Esempio: Mio marito è il mio compagno di vita.
+
+NEW CARDpresto - soon, quickly
+Example: Arriverò presto a casa. (I will arrive soon at home.)
+
+NEW CARDsubire - to undergo, to suffer
+Example: Ho subito un incidente stradale. (I underwent a car accident.)
+
+NEW CARDentrambi - both
+Example: Entrambi i libri sono molto belli. (Both books are very beautiful.)
+
+NEW CARDvilla - villa, country house
+Example: Abbiamo affittato una villa in campagna. (We rented a villa in the countryside.)
+
+NEW CARDsinistra - left
+Example: Gira a sinistra al semaforo. (Turn left at the traffic light.)
+
+NEW CARDaffrontare - to face, to confront
+Example: Dobbiamo affrontare il problema con serietà. (We need to face the problem seriously.)
+
+NEW CARDdavanti - in front of, before
+Example: Il cinema è davanti alla stazione. (The cinema is in front of the train station.)
+
+NEW CARDGiuseppe - Joseph
+Example: Giuseppe è un nome comune in Italia. (Joseph is a common name in Italy.)
+
+NEW CARDculturale - cultural
+Example: Il centro culturale organizza eventi interessanti. (The cultural center organizes interesting events.)
+
+NEW CARDpossedere - to possess, to own
+Example: Lei possiede molte proprietà. (She owns many properties.)
+
+NEW CARDlibertà - freedom
+Example: La libertà di parola è un diritto fondamentale. (Freedom of speech is a fundamental right.)
+
+NEW CARDtraccia - track, trace, clue
+Example: Non c'è traccia del ladro. (There is no trace of the thief.)
+
+NEW CARDsegnare - to mark, to sign
+Example: Puoi segnare qui dove hai firmato? (Can you sign here where you signed?)
+
+NEW CARDdifesa - defense
+Example: La squadra di calcio ha una buona difesa. (The soccer team has a good defense.)
+
+NEW CARDdirezione - direction, management
+Example: Chiedi la direzione alla stazione. (Ask for directions at the station.)
+
+NEW CARDsoltanto - only, just
+Example: Ho soltanto due euro. (I have only two euros.)
+
+NEW CARDricco - rich
+Example: La famiglia di mio padre è molto ricca. (My father's family is very rich.)
+
+NEW CARDdoppio - double
+Example: Il prezzo è doppio rispetto a quello che pensavo. (The price is double what I thought.)
+
+NEW CARDcrescere - to grow
+Example: I bambini crescono in fretta. (Children grow up quickly.)
+
+NEW CARDambito - field, area
+Example: Lavora nell'ambito della moda. (She works in the fashion field.)
+
+NEW CARDinizialmente - initially
+Example: Inizialmente non ero d'accordo, ma poi ho cambiato idea. (Initially, I didn't agree, but then I changed my mind.)
+
+NEW CARDcosto - cost, price
+Example: Qual è il costo di questo prodotto? (What is the cost of this product?)
+
+NEW CARDpezzo - piece
+Example: Ho comprato un pezzo di torta per il mio compleanno. (I bought a piece of cake for my birthday.)
+
+NEW CARDnotevole - notable, remarkable
+Example: Ha fatto un lavoro notevole. (He did a remarkable job.)
+
+NEW CARDoccidentale - western \nGli Stati Uniti sono situati nell'emisfero occidentale. (The United States are located in the western hemisphere.)
+
+NEW CARDlotta - struggle, fight \nLa lotta per la giustizia sociale continua. (The struggle for social justice continues.)
+
+NEW CARDprovare - to try, to test, to feel \nVorrei provare il gelato al cioccolato, per favore. (I would like to try the chocolate ice cream, please.)
+
+NEW CARDpari - equal, peer \nTutti gli studenti sono pari in diritti e dignità. (All students are equal in rights and dignity.)
+
+NEW CARDcolpo - hit, blow, shot, stroke \nIl pugile ha messo a segno un colpo potente. (The boxer landed a powerful blow.)
+
+NEW CARDcastello - castle \nIl castello medievale è una meraviglia dell'architettura. (The medieval castle is a marvel of architecture.)
+
+NEW CARDcarica - charge, load, position, rank \nIl dottore ha prescritto una carica di antibiotici. (The doctor prescribed a course of antibiotics.)
+
+NEW CARDmandare - to send, to order \nManderò un messaggio alla mia famiglia per far sapere che sto bene. (I will send a message to my family to let them know that I'm okay.)
+
+NEW CARDpagina - page \nHo segnato la pagina dove avevo lasciato la lettura. (I marked the page where I had stopped reading.)
+
+NEW CARDsicurezza - security, safety \nIl vigile del quartiere garantisce la sicurezza dei residenti. (The neighborhood watchman ensures the safety of residents.)
+
+NEW CARDdistanza - distance \nLa distanza tra Roma e Milano è di circa 570 km. (The distance between Rome and Milan is about 570 km.)
+
+NEW CARDcommerciale - commercial, business-related \nIl centro commerciale ha molte negozi di abbigliamento e di elettronica. (The shopping center has many clothing and electronics stores.)
+
+NEW CARDterminare - to end, to finish \nHo terminato di leggere il romanzo di 600 pagine in una settimana. (I NEW CARDfinished reading the 600-page novel in one week.)
+
+NEW CARDsignificare - to mean \nCosa significa questa parola in inglese? (What does this word mean in English?)
+
+NEW CARDconseguenza - consequence, result \nLa conseguenza della sua azione ha portato a conseguenze serie. (The consequence of his action led to serious consequences.)
+
+NEW CARDGran - great, grand \nIl Gran Canyon è una meraviglia naturale degli Stati Uniti. (The Grand Canyon is a natural wonder of the United States.)
+
+NEW CARDcinema - cinema, movie theater \nAndiamo al cinema a vedere l'ultimo film di fantascienza. (Let's go to the cinema to see the latest science fiction movie.)
+
+NEW CARDRegno - kingdom, realm \nIl Regno Unito comprende l'Inghilterra, la Scozia, il Galles e l'Irlanda del Nord. (The United Kingdom includes England, Scotland, Wales, and Northern Ireland.)
+
+NEW CARDguardare - to look, to watch \nGuardo sempre il tramonto dal mio balcone. (I always watch the sunset from my balcony.)
+
+NEW CARDpagare - to pay \nPosso pagare con la carta di credito? (Can I pay with a credit card?)
+
+NEW CARDqualcosa - something \nC'è qualcosa di strano in questa casa. (There's something strange about this house.)
+
+NEW CARDvescovo - bishop
+Example sentence: Il vescovo ha celebrato la messa. (The bishop celebrated the mass.)
+
+NEW CARDelezione - election
+Example sentence: L'elezione del nuovo presidente si terrà domani. (The election of the new president will be held tomorrow.)
+
+NEW CARDbritannico - British
+Example sentence: La bandiera britannica è composta da tre croci. (The British flag is composed of three crosses.)
+
+NEW CARDconoscenza - knowledge
+Example sentence: La conoscenza di una seconda lingua può essere molto utile. (Knowledge of a second language can be very useful.)
+
+NEW CARDaiuto - help, aid
+Example sentence: Ho bisogno di aiuto per portare queste scatole su per le scale. (I need help to carry these boxes up the stairs.)
+
+NEW CARDcantante - singer
+Example sentence: Questo cantante ha una voce bellissima. (This singer has a beautiful voice.)
+
+NEW CARDsuperficie - surface
+Example sentence: La superficie del tavolo è molto liscia. (The surface of the table is very smooth.)
+
+NEW CARDm - meter
+Example sentence: La lunghezza del campo da calcio è di circa 100 metri. (The length of the soccer field is about 100 meters.)
+
+NEW CARDmaniera - way, manner
+Example sentence: C'è una sola maniera di risolvere questo problema. (There is only one way to solve this problem.)
+
+NEW CARDpiacere - pleasure, to like
+Example sentence: È stato un piacere conoscerti. (It was a pleasure to meet you.)
+
+NEW CARDrispondere - to answer, to reply
+Example sentence: Non ha ancora risposto alla mia email. (He hasn't answered my email yet.)
+
+NEW CARDlimitare - to limit
+Example sentence: È importante limitare il consumo di zucchero. (It's important to limit sugar consumption.)
+
+NEW CARDB - bee
+Example sentence: Le api sono molto importanti per la produzione di miele. (Bees are very important for the production of honey.)
+
+NEW CARDMarco - Marco
+Example sentence: Marco è un amico di vecchia data. (Marco is an old friend.)
+
+NEW CARDcollegare - to connect, to link
+Example sentence: Dobbiamo collegare il computer alla stampante. (We need to connect the computer to the printer.)
+
+NEW CARDimperatore - emperor
+Example sentence: L'imperatore romano Augusto è stato uno dei più importanti della storia. (The Roman emperor Augustus was one of the most important in history.)
+
+NEW CARDdisponibile - available
+Example sentence: Non ho più nessun appuntamento disponibile per la settimana prossima. (I don't have any more available appointments for next week.)
+
+NEW CARDpilota - pilot
+Example sentence: Il pilota ha fatto un ottimo lavoro nell'atterraggio. (The pilot did an excellent job in landing.)
+
+NEW CARDcritica - criticism
+Example sentence: La critica cinematografica ha elogiato il nuovo film. (The film critics praised the new movie.)
+
+NEW CARDestate - summer
+Example sentence: In estate, mi piace andare al mare. (In summer, I like to go to the beach.)
+
+NEW CARDcadere - to fall
+Example sentence: Non è caduto, si è solo inciampato. (He didn't fall, he just stumbled.)
+
+NEW CARDParigi - Paris
+Example sentence: Parigi è una delle città più belle del mondo. (Paris is one of the most beautiful cities in the world.)
+
+NEW CARDcontatto - contact
+Example sentence: Per favore, lasciami il tuo contatto telefonico. (Please, leave me your phone contact.)
+
+NEW CARDYork - a city in northern England
+Esempio: Io vivo vicino a York.
+
+NEW CARDtentativo - attempt
+Esempio: Il mio tentativo di risolvere il problema non è andato a buon fine.
+
+NEW CARDintendere - to understand, to mean
+Esempio: Non riesco ad intendere cosa voglia dire questo testo.
+Esempio: Cosa intendi dire con questa affermazione?
+
+NEW CARDpianta - plant, floor plan
+Esempio: Questa pianta ha bisogno di più acqua.
+Esempio: Sto guardando la pianta del mio nuovo appartamento.
+
+NEW CARDterreno - land, ground
+Esempio: Ho appena acquistato un terreno vicino al mare.
+Esempio: Non camminare su quel terreno, è troppo fangoso.
+
+NEW CARDsera - evening
+Esempio: Mi piace uscire la sera per andare al cinema.
+
+NEW CARDparco - park
+Esempio: Andiamo a fare un picnic al parco domani.
+
+NEW CARDconvincere - to convince
+Esempio: Ho cercato di convincere mio fratello a venire al concerto con me.
+
+NEW CARDsoluzione - solution
+Esempio: Sto cercando di trovare una soluzione al mio problema.
+
+NEW CARDriferire - to report, to refer
+Esempio: Dovresti riferire questo incidente alla polizia.
+Esempio: Di cosa ti stai riferendo?
+
+NEW CARDassociazione - association
+Esempio: Sono un membro di un'associazione locale di volontariato.
+
+NEW CARDtrasmettere - to transmit, to broadcast
+Esempio: La stazione radio trasmetterà il concerto in diretta.
+
+NEW CARDprofondo - deep
+Esempio: Il lago è molto profondo.
+
+NEW CARDspagnolo - Spanish
+Esempio: Ho imparato a parlare lo spagnolo in Spagna.
+
+NEW CARDcompiere - to accomplish, to complete
+Esempio: Sono riuscito a compiere il progetto in tempo.
+
+NEW CARDMySQL-Link - a computer software
+NEW CARDEsempio: Ho bisogno di installare MySQL-Link per far funzionare il mio sito web.
+
+NEW CARDinferiore - inferior, lower
+Esempio: Il piano inferiore dell'edificio è occupato da un negozio di alimentari.
+
+NEW CARDStato - state
+Esempio: Sono nato nello Stato di New York.
+
+NEW CARDmancare - to miss, to lack
+Esempio: Mi manchi molto quando non sei qui.
+Esempio: Mi manca il tempo per fare tutto quello che devo fare.
+
+NEW CARDgente - people
+Esempio: C'è molta gente alla stazione dei treni oggi.
+
+NEW CARDcontare - to count, to matter
+Esempio: Sto cercando di contare tutti i soldi nella mia borsa.
+Esempio: Questo progetto non conta per la mia valutazione finale.
+
+NEW CARDobiettivo - objective, goal
+Esempio: Ho un obiettivo preciso in mente per la mia carriera.
+
+NEW CARDpassaggio - passage, crossing
+Esempio: Il passaggio a livello è chiuso per la manutenzione.
+
+NEW CARDconte - count (nobleman)
+Esempio: Il conte vive in una grande villa fuori città.
+
+NEW CARDconfine - border, boundary \nIl confine tra i due paesi è fortemente sorvegliato. (The border between the two countries is heavily guarded.)
+
+NEW CARDcausare - to cause \nLa pioggia ha causato la cancellazione della partita di calcio. (The rain caused the cancellation of the football match.)
+
+NEW CARDdietro - behind, after \nLa mia casa si trova dietro l'ufficio postale. (My house is located behind the post office.)
+
+NEW CARDmedia - media \nLa televisione è un mezzo di comunicazione di massa. (Television is a mass media communication tool.)
+
+NEW CARDimmediato - immediate \nHo bisogno di una risposta immediata. (I need an immediate response.)
+
+NEW CARDpiede - foot \nHo bisogno di un nuovo paio di scarpe da ginnastica per il piede destro. (I need a new pair of sneakers for my right foot.)
+
+NEW CARDcarta - paper, card \nHo scritto la lettera su un foglio di carta. (I wrote the letter on a piece of paper.)
+
+NEW CARDmetodo - method, way \nQuesto è un buon metodo per imparare una lingua straniera. (This is a good method to learn a foreign language.)
+
+NEW CARDFirenze - Florence \nHo visitato Firenze lo scorso anno. (I visited Florence last year.)
+
+NEW CARDcomando - command, order \nHo dato un comando al mio computer per salvare il documento. (I gave a command to my computer to save the document.)
+
+NEW CARDpasso - step, pace \nDevi fare un passo alla volta per raggiungere la cima della montagna. (You have to take one step at a time to reach the top of the mountain.)
+
+NEW CARDnota - note, mark \nHo preso una buona nota all'esame di matematica. (I got a good mark on the math exam.)
+
+NEW CARDest - east \nIl sole sorge a est e tramonta a ovest. (The sun rises in the east and sets in the west.)
+
+NEW CARDcampione - sample, champion \nHo bisogno di un campione di tessuto per scegliere il colore giusto. (I need a sample of fabric to choose the right color.)
+
+NEW CARDmissione - mission, assignment \nLa mia missione è quella di aiutare le persone bisognose. (My mission is to help people in need.)
+
+NEW CARDX - X \nLa variabile X rappresenta un valore sconosciuto. (The variable X represents an unknown value.)
+
+NEW CARDdestinare - to allocate, to assign \nHo destinato una parte del mio stipendio al risparmio. (I allocated a part of my salary to savings.)
+
+NEW CARDaffidare - to entrust, to assign \nHo affidato la custodia del mio cane al mio vicino di casa. (I entrusted the care of my dog to my neighbor.)
+
+NEW CARDovvio - obvious, evident \nÈ ovvio che ha mentito. (It's obvious that he lied.)
+
+NEW CARDarmato - armed \nL'uomo armato è stato arrestato dalla polizia. (The armed man was arrested by the police.)
+
+NEW CARDtrasmissione - transmission, broadcast \nLa trasmissione televisiva inizia alle 20:00. (The TV broadcast starts at 8:00 PM.)
+
+NEW CARDeconomia - economy \nL'economia del paese sta migliorando. (The country's economy is improving.)
+
+NEW CARDspecifico - specific \nHo bisogno di informazioni specifiche sul prodotto. (I need specific information about the product.)
+
+NEW CARDcontratto - contract \nHo appena firmato un contratto per comprare una casa.
+NEW CARDdocumento - document \nHo bisogno di un documento d'identità per prendere l'aereo.
+NEW CARDacquistare - to purchase, buy \nVado al negozio per acquistare il latte.
+NEW CARDrivista - magazine \nHo comprato una rivista di cucina per trovare una ricetta nuova.
+NEW CARDprezzo - price \nIl prezzo della benzina sta aumentando.
+NEW CARDelevato - high, elevated \nIl prezzo dell'oro è elevato.
+NEW CARDsebbene - although, even though \nSebbene piova, uscirò a fare una passeggiata.
+NEW CARDtruppa - troop \nLe truppe si sono radunate per la parata.
+NEW CARDSpagna - Spain \nSono appena tornato dalla Spagna.
+NEW CARDtrarre - to draw, extract, derive \nPosso trarre una conclusione da ciò che hai detto.
+NEW CARDlatino - Latin \nSto studiando il latino a scuola.
+NEW CARDVenezia - Venice \nVenezia è famosa per i suoi canali e gondole.
+NEW CARDvotare - to vote \nVoterò per il candidato che sostiene l'ambiente.
+NEW CARDmemoria - memory \nHo una memoria eccellente per le date.
+NEW CARDnotare - to notice, to remark \nHo notato che la tua macchina nuova è molto bella.
+NEW CARDpure - also, as well \nMi piacciono la pizza e la pasta, ma pure il sushi.
+NEW CARDfuoco - fire \nIl fuoco sta bruciando la casa.
+NEW CARDgrave - serious, grave \nL'infezione è molto grave e richiede un intervento chirurgico.
+NEW CARDsportivo - sporty \nMi piace indossare abbigliamento sportivo quando vado in palestra.
+NEW CARDfenomeno - phenomenon \nL'eclissi è un fenomeno naturale interessante.
+NEW CARDattenzione - attention \nPresta attenzione a ciò che dici.
+NEW CARDfondamentale - fundamental \nLa scienza è una parte fondamentale dell'educazione.

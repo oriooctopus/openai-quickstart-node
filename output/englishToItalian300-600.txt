@@ -1,0 +1,302 @@
+"struttura" - structure
+"mano" - hand
+"nonostante" - despite
+"inglese" - English
+"video" - video
+"campionato" - championship
+"corpo" - body
+"mondiale" - world
+"partito" - party, faction
+"risultato" - result
+"re" - king
+"commento" - comment
+"l" - the
+"forse" - perhaps, maybe
+"Maria" - Mary
+"lei" - she, her
+"vicino" - near, close
+"valore" - value
+"autore" - author
+"europeo" - European
+"specie" - species
+"singolo" - single
+"internazionale" - international
+"canzone" - song
+"realtà" - reality
+"lingua" - language
+"ordine" - order
+"parola" - word
+"dirigere" - to direct, to lead
+"carriera" - career
+"milione" - million
+"intero" - entire, whole
+"ricerca" - research
+"popolazione" - population
+"maggio" - May
+"motore" - engine
+"on" - on
+"bello" - beautiful
+"ti" - you
+"musica" - music
+"membro" - member
+"terra" - land, earth
+"regione" - region
+"Giovanni" - John
+"Milano" - Milan
+"scuola" - school
+"simile" - similar
+"precedente" - previous
+"definire" - to define
+"scoprire" - to discover
+"ricevere" - to receive
+sito - site, website
+modello - model
+uccidere - to kill
+egli - he
+americano - American
+effetto - effect
+indicare - to indicate, to point out
+prevedere - to predict, to foretell
+basso - low
+locale - local
+rapporto - relationship, report
+mostrare - to show
+comporre - to compose, to write
+romano - Roman
+sede - seat, headquarters
+arte - art
+Stati - states, US
+fondare - to found, to establish
+battaglia - battle
+agosto - August
+aprire - to open
+funzione - function
+umano - human
+sviluppo - development
+completo - complete
+giugno - June
+fratello - brother
+cominciare - to begin, to start
+sociale - social
+luglio - July
+svolgere - to carry out, to perform
+necessario - necessary
+fa - makes
+sud - south
+massimo - maximum
+attuale - current
+movimento - movement
+idea - idea
+finire - to finish
+Europa - Europe
+episodio - episode
+economico - economic
+ottobre - October
+centrale - central
+fuori - out, outside
+sviluppare - to develop
+migliore - best
+contenere - to contain
+azione - action
+dicembre - December
+vecchio - old
+Francia - France
+bambino - child, baby
+gennaio - January
+credere - to believe
+formare - to form, to shape
+I - I, me
+età - age
+marzo - March
+subito - immediately
+famoso - famous
+elemento - element
+senso - sense, meaning
+apparire - to appear
+Formula - Formula
+caratteristica - characteristic
+registrare - to record
+ufficiale - official
+prodotto - product
+aereo - air, aircraft
+aprile - April
+costruzione - construction
+metà - half
+maggior - greater, more
+cittadino - citizen
+processo - process
+occupare - to occupy
+giocare - to play
+offrire - to offer
+legare - to tie, to bind
+informazione - information
+et - and
+controllo - control
+stile - style
+spazio - space
+troppo - too much, too many
+buono - good
+set - set
+situazione - situation
+line - line
+vittoria - victory
+occasione - occasion, opportunity
+noi - we, us
+isola - island
+attore - actor
+immagine - image, picture
+sentire - to feel, to hear
+oggetto - object
+dato - given, data
+metro - meter, subway
+"condizione - condition
+testo - text
+cioè - that is, in other words
+cambiare - to change
+novembre - November
+presidente - president
+capo - head, leader
+edizione - edition
+Uniti - United
+sostenere - to support
+Warning - warning
+riguardare - to regard, to pertain
+resto - rest, remainder
+interesse - interest
+scena - scene
+De - of
+ormai - by now, already
+meglio - better
+no - no
+fase - phase
+formazione - formation, training
+cinque - five
+luce - light
+leggere - to read
+stella - star
+colore - color
+Carlo - Carlo
+risultare - to result, to turn out
+assumere - to hire, to assume
+condurre - to conduct, to lead
+edificio - building
+dimostrare - to demonstrate, to prove
+musicale - musical
+capire - to understand
+madre - mother
+almeno - at least
+ritenere - to consider, to hold
+evento - event
+gara - race, competition
+ex - ex, former
+proporre - to propose
+probabilmente - probably
+pò - a little, somewhat
+fronte - front
+infine - finally
+classe - class
+superiore - superior, upper
+breve - brief, short
+restare - to remain, to stay
+arma - weapon"
+fonte - source
+fiume - river
+esercito - army
+Santa - Saint
+libero - free
+televisivo - television
+l' - the
+derivare - to derive
+mercato - market
+essa - she
+richiedere - to request
+artista - artist
+febbraio - February
+abitante - inhabitant
+piazza - square
+mantenere - to maintain
+semplice - simple
+trasferire - to transfer
+costringere - to compel
+settimana - week
+situare - to locate
+attualmente - currently
+nave - ship
+basare - to base
+canale - channel
+scegliere - to choose
+possibilità - possibility
+brano - piece
+motivo - reason
+bianco - white
+giungere - to arrive
+partita - match, game
+seguente - following
+consiglio - council
+relativo - relative
+originale - original
+dichiarare - to declare
+diretto - direct
+dimensione - size
+futuro - future
+vista - view
+servire - to serve
+atto - act
+romanzo - novel
+aspetto - aspect
+amore - love
+riportare - to report
+materiale - material
+disco - disk, record
+solito - usual, typical
+solito - usual
+cultura - culture
+is - (as a pronoun) "he/she/it is" or (as a verb) "third person singular of 'to be'"
+tuo - your
+scelta - choice
+relazione - relationship
+lato - side
+biografia - biography
+gran - great
+lavorio - work
+moderno - modern
+effettuare - to carry out, to perform
+politica - politics
+riconoscere - to recognize
+complesso - complex
+not - (contraction of "not") negation
+attacco - attack
+chiaro - clear
+and - conjunction meaning "and"
+riprendere - to resume
+New - (as a proper noun) referring to "New (something)"
+Rai - (as a proper noun) referring to the Italian state broadcaster, Rai (Radiotelevisione Italiana)
+band - (as a noun) group, band
+testa - head
+moglie - wife
+tecnico - technical
+unità - unit
+sei - you are (informal, singular)
+risalire - to go back up
+nero - black
+premio - prize
+figura - figure
+privato - private
+articolo - article
+sostituire - to replace
+esso - it
+perchè - because
+poiché - since
+appena - just
+Francesco - (as a proper noun) Francis
+Repubblica - Republic
+aggiungere - to add
+nord - north
+richiesta - request
+mare - sea
+velocità - speed
+giocatore - player
+giro - round
+differenza - difference
+tramite - through, by means of
+affermare - to affirm, to state.
